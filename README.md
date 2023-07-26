@@ -7,6 +7,7 @@ My name is Henrique de Lemos. I'm graduated on computational math, currently a m
 - Physical
 - Numerical Methods
 - Computational Modeling
+- High-Performance Computing
 
 ## Programming Languages
 - C/C++
