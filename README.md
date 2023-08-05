@@ -12,3 +12,4 @@ My name is Henrique de Lemos. I'm graduated on computational math, currently a m
 ## Programming Languages
 - C/C++
 - Python
+- Fortran
