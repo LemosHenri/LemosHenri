@@ -5,7 +5,7 @@ My name is Henrique de Lemos. I'm graduated on computational math, currently a m
 ## Interest Areas
 - Aplicated Math
 - Physics
-- Computational Modeling
+- Deep Learning
 - High-Performance Computing
 
 ## Programming Languages
