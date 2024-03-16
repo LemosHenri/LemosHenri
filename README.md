@@ -6,7 +6,7 @@ My name is Henrique de Lemos. I'm graduated on computational math, currently a m
 - Aplicated Math
 - Physics
 - Deep Learning
-- High-Performance Computing
+- Data Analysis
 
 ## Programming Languages
 - C/C++
