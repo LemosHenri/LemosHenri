@@ -1,14 +1,14 @@
-# Hi there! 
+# Ao!!
 
-My name is Henrique de Lemos. I'm graduated on computational math, currently a master's student in computational modeling and i'm here to share some codes and improve myself.
+Meu nome é Henrique de Lemos, sou graduado em matemática computacional, mestrando em modelagem computacional e um grande entusiasta pelos campos de modelagem, inteligência artificial, data science e programação.
 
-## Interest Areas
-- Aplicated Math
-- Physics
+## Áreas de Interesse:
+- Matemática Aplicada
+- Simulação de Sistemas Contínuos
 - Deep Learning
-- Data Analysis
+- Ciência de Dados
 
-## Programming Languages
+## Linguagens de Programação
 - C/C++
 - Python
 - Fortran
