@@ -1,6 +1,6 @@
 # Ola!!
 
-Meu nome é Henrique de Lemos, sou graduado em matemática computacional, mestrando em modelagem computacional e um grande entusiasta pelos campos de modelagem, inteligência artificial, data science e programação.
+Meu nome é Henrique de Lemos, sou graduado em matemática computacional, mestrando em modelagem computacional e um grande entusiasta pelos campos do cálculo numérico, inteligência artificial, data science e computação.
 
 ## Áreas de Interesse:
 - Matemática Aplicada;
