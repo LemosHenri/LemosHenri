@@ -5,8 +5,7 @@ Meu nome é Henrique de Lemos, sou graduado em matemática computacional, mestre
 ## Áreas de Interesse:
 - Matemática Aplicada;
 - Deep Learning;
-- Física;
-- Computação;
+- Desenvolvimento de Software;
 
 ## Linguagens de Programação
 - C/C++;
